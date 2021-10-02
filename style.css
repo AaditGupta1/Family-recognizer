@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+    color: black;
+}
+
+#list_members{
+    font-size: 20px;
+    font-family: 'Festive' cursive;
+}
+
+h3{
+    width: 300px;
+    font-weight: bold;
+}
+
+button{
+    border: 5px solid white !important;
+}
